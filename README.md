@@ -36,3 +36,14 @@
 - yarn add redux-devtools-extension
 - npm install --save styled-components
 - VSCODE 확장 프로그램 vscode-styled-components 설치 (styled-component 자동완성)
+
+## combineReducers
+
+```js
+export default combineReducers({
+    addNumber: addReducer,
+    displayNumber: displayReducer
+})
+```
+
+이렇게 하면, Reducer분할에 쓰인 Key가 그대로 State분할에도 쓰입니다. 또한 실제로 각각의 reducer의 정의 자체도 다른 파일로 나누는 것이 일반적입니다.
