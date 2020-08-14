@@ -1,6 +1,5 @@
 # 리덕스 상태 관리
 
-- 참고
 ![blog](https://miro.medium.com/max/700/0*Z18iLsM7Bf1xoNth.)
 
 - action 포멧
