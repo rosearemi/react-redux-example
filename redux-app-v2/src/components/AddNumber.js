@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 
+// 컨테이너에서 store의 리듀서를 가져온다.
 const AddNumber = (props) => {
   const [size, setSize] = useState(1);
 

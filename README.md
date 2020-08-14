@@ -1,5 +1,7 @@
 # 리덕스 상태 관리
 
+- react-redux 자료 https://react-redux.js.org/introduction/quick-start
+
 - 불변관리 함수 기초 공부 자료
   https://blog.naver.com/getinthere
 

@@ -1,4 +1,4 @@
-const INCREMENT = "addNumber/INCREMENT";
+const INCREMENT = "INCREMENT";
 export const increase = () => ({ type: INCREMENT });
 
 const initialState = {

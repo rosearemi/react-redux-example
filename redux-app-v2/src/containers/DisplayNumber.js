@@ -9,4 +9,4 @@ const mapReduxStateToReactProps = (state) => {
 };
 
 // connect()에 인자는 생략 가능하다.
-export default connect(mapReduxStateToReactProps)(DisplayNumber);
+export default connect(mapReduxStateToReactProps, null)(DisplayNumber);
