@@ -1,5 +1,5 @@
 const INCREMENT = 'INCREMENT';
-export const increase = () => ({ type: INCREMENT });
+export const increase = (size) => ({ type: INCREMENT, size: size });
 
 const initstate = {
   number: 0,
