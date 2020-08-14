@@ -1,6 +1,15 @@
 # 리덕스 상태 관리
 
+- 참고
 ![blog](https://miro.medium.com/max/700/0*Z18iLsM7Bf1xoNth.)
+
+- action 포멧
+```json
+{
+    type: "액션의 종류를 한번에 식별할 수 있는 문자열 혹은 심볼",
+    payload: "액션의 실행에 필요한 임의의 데이터",
+}
+```
 
 - react-redux 자료 https://react-redux.js.org/introduction/quick-start
 
