@@ -1,5 +1,7 @@
 # 리덕스 상태 관리
 
+![blog](https://miro.medium.com/max/700/0*Z18iLsM7Bf1xoNth.)
+
 - react-redux 자료 https://react-redux.js.org/introduction/quick-start
 
 - 불변관리 함수 기초 공부 자료
